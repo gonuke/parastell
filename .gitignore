@@ -139,7 +139,12 @@ dmypy.json
 *.cub
 *.cub5
 *.h5
+<<<<<<< HEAD
 *.exo
 !coils.txt
 !wout_vmec.nc
 .vscode
+=======
+*.yaml
+!config.yaml
+>>>>>>> becd198 (Initial Commit Yaml Example Script)
