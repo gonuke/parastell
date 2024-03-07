@@ -10,7 +10,7 @@ This tool depends on:
 - [Coreform Cubit](https://coreform.com/products/downloads/) or [Cubit](https://cubit.sandia.gov/downloads/) by Sandia National Laboratories
 - [cad-to-dagmc](https://pypi.org/project/cad-to-dagmc/)
 - [Gmsh](https://pypi.org/project/gmsh/)
--[YAML](https://pyyaml.org/wiki/PyYAML)
+- [YAML](https://pyyaml.org/wiki/PyYAML)
 ## Install with Mamba
 
 This guide will use the mamba package manager to install dependencies in a conda environment. Conda allows for easily installing and switching between different versions of software packages through the use of [environments](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html).
