@@ -51,7 +51,6 @@ Pip install remaining ParaStell dependencies.
 ```
 pip install cad-to-dagmc
 pip install gmsh
-```
 pip install pyyaml
 ```
 ### Coreform Cubit
